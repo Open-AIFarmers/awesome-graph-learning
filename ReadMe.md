@@ -1,4 +1,4 @@
-# Must-read papers on GNN
+# Papers List on GNN
 This is a collection of resources related with graph neural networks.
 
 ## [Content](#content)
