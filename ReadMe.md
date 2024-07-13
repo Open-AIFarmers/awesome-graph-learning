@@ -1972,4 +1972,6 @@ This is a collection of resources related with graph neural networks.
 
 1. [graph nets library](https://github.com/deepmind/graph_nets)
 
+
+
 1. [GNN-based Fraud Detection Toolbox](https://github.com/safe-graph/DGFraud)
